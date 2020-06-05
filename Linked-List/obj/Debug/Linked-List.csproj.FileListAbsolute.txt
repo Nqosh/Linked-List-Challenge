@@ -1,0 +1,6 @@
+C:\Users\Nmoyo\source\repos\Linked-List\Linked-List\bin\Debug\Linked-List.exe.config
+C:\Users\Nmoyo\source\repos\Linked-List\Linked-List\bin\Debug\Linked-List.exe
+C:\Users\Nmoyo\source\repos\Linked-List\Linked-List\bin\Debug\Linked-List.pdb
+C:\Users\Nmoyo\source\repos\Linked-List\Linked-List\obj\Debug\Linked-List.csprojAssemblyReference.cache
+C:\Users\Nmoyo\source\repos\Linked-List\Linked-List\obj\Debug\Linked-List.exe
+C:\Users\Nmoyo\source\repos\Linked-List\Linked-List\obj\Debug\Linked-List.pdb
